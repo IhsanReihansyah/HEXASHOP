@@ -166,7 +166,7 @@
                             <i class="fa fa-quote-left"></i>
                             <p>explore all the clothes you need here.</p>
                         </div>
-                        <p>On this website you can search for the needs of your partner and your child which may be suitable for your partner and your child..
+                        <p>On this website you can search for the needs of your partner and your child which may be suitable for your partner and your child.
                         </p>
                         <p>If you want clothes that are not yet on this website, you can request from us so we can help you find what you <a rel="nofollow"
                                 href="http://instagram.com" target="_blank">need.</a></p>
