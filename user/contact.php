@@ -22,13 +22,7 @@
     <link rel="stylesheet" href="../assets/css/owl-carousel.css">
 
     <link rel="stylesheet" href="../assets/css/lightbox.css">
-<!--
 
-TemplateMo 571 Hexashop
-
-https://templatemo.com/tm-571-hexashop
-
--->
     </head>
     
     <body>
@@ -83,8 +77,8 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-12">
                     <div class="inner-content">
-                        <h2>Contact Us</h2>
-                        <span>Awesome, clean &amp; creative HTML5 Template</span>
+                        <h2>Contact Me</h2>
+                        <span>If, You Want.</span>
                     </div>
                 </div>
             </div>
@@ -105,8 +99,8 @@ https://templatemo.com/tm-571-hexashop
                 </div>
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Say Hello. Don't Be Shy!</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <h2>Hello. Don't Be Shy!</h2>
+                        <span>If you want to contact me, you can write your contact below.</span>
                     </div>
                     <form id="contact" action="" method="post">
                         <div class="row">

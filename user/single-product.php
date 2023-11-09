@@ -97,14 +97,14 @@ https://templatemo.com/tm-571-hexashop
     <!-- ***** Main Banner Area Start ***** -->
     <div class="page-heading" id="top">
         <div class="container">
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-12">
                     <div class="inner-content">
                         <h2>Single Product Page</h2>
                         <span>Awesome &amp; Creative</span>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- ***** Main Banner Area End ***** -->
@@ -134,11 +134,10 @@ https://templatemo.com/tm-571-hexashop
                             <li><i class="fa fa-star"></i></li>
                             <li><i class="fa fa-star"></i></li>
                         </ul>
-                        <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod kon tempor
-                            incididunt ut labore.</span>
+                        <span>The shirt with white stripes plus black shades on the side adds a minimalist impression</span>
                         <div class="quote">
                             <i class="fa fa-quote-left"></i>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiuski smod.</p>
+                            <p>Order now, don't miss out because there's a 30% discount this month.</p>
                         </div>
                         <div class="quantity-content">
                             <div class="left-content">
@@ -179,50 +178,48 @@ https://templatemo.com/tm-571-hexashop
                             <img src="../assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
                         </div>
                         <ul>
-                            <li><a href="#">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</a></li>
-                            <li><a href="#">hexashop@company.com</a></li>
-                            <li><a href="#">010-020-0340</a></li>
+                            <li><a href="http://googlemaps.com">Yogyakarta, FL 33160, Indonesia</a></li>
+                            <li><a href="index.php">hexashop@company.com</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3">
                     <h4>Shopping &amp; Categories</h4>
                     <ul>
-                        <li><a href="#">Men’s Shopping</a></li>
-                        <li><a href="#">Women’s Shopping</a></li>
-                        <li><a href="#">Kid's Shopping</a></li>
+                        <li><a href="men.php">Men’s Shopping</a></li>
+                        <li><a href="women.php">Women’s Shopping</a></li>
+                        <li><a href="kids.php">Kid's Shopping</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><a href="#">Homepage</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="index.php">Homepage</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
                     <h4>Help &amp; Information</h4>
                     <ul>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">FAQ's</a></li>
-                        <li><a href="#">Shipping</a></li>
-                        <li><a href="#">Tracking ID</a></li>
+                        <li><a href="contact.php">Help</a></li>
+                        <li><a href="contact.php">FAQ's</a></li>
+                        <li><a href="contact.php">Shipping</a></li>
+                        <li><a href="contact.php">Tracking ID</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-12">
                     <div class="under-footer">
                         <p>Copyright © 2022 HexaShop Co., Ltd. All Rights Reserved.
 
-                            <br>Design: <a href="https://templatemo.com" target="_parent"
-                                title="free css templates">TemplateMo</a>
+                            <br>Design: <a href="https://www.instagram.com/ihsanreihaa" target="_parent"
+                                title="free css templates">Ihsan Reihansyah</a>
                         </p>
                         <ul>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                            <li><a href="http://facebook.com"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="http://twitter.com"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="http://linkedin.com"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="http://behance.com"><i class="fa fa-behance"></i></a></li>
                         </ul>
                     </div>
                 </div>

@@ -10,20 +10,13 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
         rel="stylesheet">
 
-    <title>Hexashop Ecommerce</title>
+    <title>Hexashop Ecommerce Ihsan</title>
 
-
-    <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.min.css">
-
     <link rel="stylesheet" type="text/css" href="../assets/css/font-awesome.css">
-
     <link rel="stylesheet" href="../assets/css/templatemo-hexashop.css">
-
     <link rel="stylesheet" href="../assets/css/owl-carousel.css">
-
-    <link rel="stylesheet" href="../assets/css/lightbox.cs
-    s">
+    <link rel="stylesheet" href="../assets/css/lightbox.css">
     
 </head>
 
@@ -109,7 +102,7 @@
                                         <div class="hover-content">
                                             <div class="inner">
                                                 <h4>Women</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.
+                                                <p>selling women's clothes is provided for your needs
                                                 </p>
                                                 <div class="main-border-button">
                                                     <a href="women.php">Discover More</a>
@@ -130,7 +123,7 @@
                                         <div class="hover-content">
                                             <div class="inner">
                                                 <h4>Men</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.
+                                                <p>selling men's clothes is provided for your needs
                                                 </p>
                                                 <div class="main-border-button">
                                                     <a href="men.php">Discover More</a>
@@ -151,7 +144,7 @@
                                         <div class="hover-content">
                                             <div class="inner">
                                                 <h4>Kids</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.
+                                                <p>selling kid's clothes is provided for your needs
                                                 </p>
                                                 <div class="main-border-button">
                                                     <a href="kids.php">Discover More</a>
@@ -187,19 +180,15 @@
                 <div class="col-lg-6">
                     <div class="left-content">
                         <h2>Explore Our Products</h2>
-                        <span>You are allowed to use this HexaShop HTML CSS template. You can feel free to modify or
-                            edit this layout. You can convert this template as any kind of ecommerce CMS theme as you
-                            wish.</span>
+                        <span>You can look for your favorite clothes here at the right price and good quality. Here you can improve your appearance according to your needs.</span>
                         <div class="quote">
                             <i class="fa fa-quote-left"></i>
-                            <p>You are not allowed to redistribute this template ZIP file on any other website.</p>
+                            <p>explore all the clothes you need here.</p>
                         </div>
-                        <p>There are 5 pages included in this HexaShop Template and we are providing it to you for
-                            absolutely free of charge at our TemplateMo website. There are web development costs for us.
+                        <p>On this website you can search for the needs of your partner and your child which may be suitable for your partner and your child..
                         </p>
-                        <p>If this template is beneficial for your website or business, please kindly <a rel="nofollow"
-                                href="https://paypal.me/templatemo" target="_blank">support us</a> a little via PayPal.
-                            Please also tell your friends about our great website. Thank you.</p>
+                        <p>If you want clothes that are not yet on this website, you can request from us so we can help you find what you <a rel="nofollow"
+                                href="http://instagram.com" target="_blank">need.</a></p>
                         <div class="main-border-button">
                             <a href="products.php">Discover More</a>
                         </div>
@@ -245,7 +234,7 @@
                 <div class="col-lg-12">
                     <div class="section-heading">
                         <h2>Social Media</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <span>if you want to browse us on our instagram</span>
                     </div>
                 </div>
             </div>
@@ -330,7 +319,7 @@
                 <div class="col-lg-8">
                     <div class="section-heading">
                         <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <span>If you want to get a discount from us, you can enter your name and email below.</span>
                     </div>
                     <form id="subscribe" action="" method="get">
                         <div class="row">
@@ -358,15 +347,15 @@
                     <div class="row">
                         <div class="col-6">
                             <ul>
-                                <li>Store Location:<br><span>Sunny Isles Beach, FL 33160, United States</span></li>
-                                <li>Phone:<br><span>010-020-0340</span></li>
-                                <li>Office Location:<br><span>North Miami Beach</span></li>
+                                <li>Store Location:<br><span>Yogyakarta, FL 33160, Indonesia</span></li>
+                                <li>Phone:<br><span>0821-6555-4417</span></li>
+                                <li>Office Location:<br><span>Ihsan Reihansyah</span></li>
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul>
                                 <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
-                                <li>Email:<br><span>info@company.com</span></li>
+                                <li>Email:<br><span>ihsanreihansyah24@gmail.com</span></li>
                                 <li>Social Media:<br><span><a href="http://facebook.com">Facebook</a>, <a href="http://instagram.com">Instagram</a>, <a
                                             href="http://behance.com">Behance</a>, <a href="http://linkedin.com">Linkedin</a></span></li>
                             </ul>
@@ -388,7 +377,7 @@
                             <img src="../assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
                         </div>
                         <ul>
-                            <li><a href="http://googlemaps.com">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</a></li>
+                            <li><a href="http://googlemaps.com">Yogyakarta, FL 33160, Indonesia</a></li>
                             <li><a href="index.php">hexashop@company.com</a></li>
                         </ul>
                     </div>

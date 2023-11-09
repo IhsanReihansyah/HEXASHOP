@@ -90,7 +90,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-6">
                     <div class="section-heading">
                         <h2 style="text-align: left">Men's Latest</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <span>Take a closer look at the details of the men's clothes you want to look for.</span>
                     </div>
                 </div>
             </div>
@@ -171,21 +171,17 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-6">
                     <div class="left-content">
                         <h2>Explore Our Products</h2>
-                        <span>You are allowed to use this HexaShop HTML CSS template. You can feel free to modify or
-                            edit this layout. You can convert this template as any kind of ecommerce CMS theme as you
-                            wish.</span>
+                        <span>You can look for your favorite clothes here at the right price and good quality. Here you can improve your appearance according to your needs.</span>
                         <div class="quote">
                             <i class="fa fa-quote-left"></i>
-                            <p>You are not allowed to redistribute this template ZIP file on any other website.</p>
+                            <p>explore all the clothes you need here.</p>
                         </div>
-                        <p>There are 5 pages included in this HexaShop Template and we are providing it to you for
-                            absolutely free of charge at our TemplateMo website. There are web development costs for us.
+                        <p>On this website you can search for the needs of your partner and your child which may be suitable for your partner and your child..
                         </p>
-                        <p>If this template is beneficial for your website or business, please kindly <a rel="nofollow"
-                                href="https://paypal.me/templatemo" target="_blank">support us</a> a little via PayPal.
-                            Please also tell your friends about our great website. Thank you.</p>
+                        <p>If you want clothes that are not yet on this website, you can request from us so we can help you find what you <a rel="nofollow"
+                                href="http://instagram.com" target="_blank">need.</a></p>
                         <div class="main-border-button">
-                            <a href="products.html">Discover More</a>
+                            <a href="products.php">Discover More</a>
                         </div>
                     </div>
                 </div>
@@ -200,12 +196,12 @@ https://templatemo.com/tm-571-hexashop
                             </div>
                             <div class="col-lg-6">
                                 <div class="first-image">
-                                    <img src="assets/images/explore-image-01.jpg" alt="">
+                                    <img src="../assets/images/explore-image-01.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="second-image">
-                                    <img src="assets/images/explore-image-02.jpg" alt="">
+                                    <img src="../assets/images/explore-image-02.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -229,7 +225,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-12">
                     <div class="section-heading">
                         <h2>Social Media</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <span>if you want to browse us on our instagram</span>
                     </div>
                 </div>
             </div>
@@ -314,7 +310,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-8">
                     <div class="section-heading">
                         <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <span>If you want to get a discount from us, you can enter your name and email below.</span>
                     </div>
                     <form id="subscribe" action="" method="get">
                         <div class="row">
@@ -342,17 +338,17 @@ https://templatemo.com/tm-571-hexashop
                     <div class="row">
                         <div class="col-6">
                             <ul>
-                                <li>Store Location:<br><span>Sunny Isles Beach, FL 33160, United States</span></li>
-                                <li>Phone:<br><span>010-020-0340</span></li>
-                                <li>Office Location:<br><span>North Miami Beach</span></li>
+                                <li>Store Location:<br><span>Yogyakarta, FL 33160, Indonesia</span></li>
+                                <li>Phone:<br><span>0821-6555-4417</span></li>
+                                <li>Office Location:<br><span>Ihsan Reihansyah</span></li>
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul>
                                 <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
-                                <li>Email:<br><span>info@company.com</span></li>
-                                <li>Social Media:<br><span><a href="#">Facebook</a>, <a href="#">Instagram</a>, <a
-                                            href="#">Behance</a>, <a href="#">Linkedin</a></span></li>
+                                <li>Email:<br><span>ihsanreihansyah24@gmail.com</span></li>
+                                <li>Social Media:<br><span><a href="http://facebook.com">Facebook</a>, <a href="http://instagram.com">Instagram</a>, <a
+                                            href="http://behance.com">Behance</a>, <a href="http://linkedin.com">Linkedin</a></span></li>
                             </ul>
                         </div>
                     </div>
@@ -372,50 +368,48 @@ https://templatemo.com/tm-571-hexashop
                             <img src="../assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
                         </div>
                         <ul>
-                            <li><a href="#">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</a></li>
-                            <li><a href="#">hexashop@company.com</a></li>
-                            <li><a href="#">010-020-0340</a></li>
+                            <li><a href="http://googlemaps.com">Yogyakarta, FL 33160, Indonesia</a></li>
+                            <li><a href="index.php">hexashop@company.com</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3">
                     <h4>Shopping &amp; Categories</h4>
                     <ul>
-                        <li><a href="#">Men’s Shopping</a></li>
-                        <li><a href="#">Women’s Shopping</a></li>
-                        <li><a href="#">Kid's Shopping</a></li>
+                        <li><a href="men.php">Men’s Shopping</a></li>
+                        <li><a href="women.php">Women’s Shopping</a></li>
+                        <li><a href="kids.php">Kid's Shopping</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><a href="#">Homepage</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="index.php">Homepage</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
                     <h4>Help &amp; Information</h4>
                     <ul>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">FAQ's</a></li>
-                        <li><a href="#">Shipping</a></li>
-                        <li><a href="#">Tracking ID</a></li>
+                        <li><a href="contact.php">Help</a></li>
+                        <li><a href="contact.php">FAQ's</a></li>
+                        <li><a href="contact.php">Shipping</a></li>
+                        <li><a href="contact.php">Tracking ID</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-12">
                     <div class="under-footer">
                         <p>Copyright © 2022 HexaShop Co., Ltd. All Rights Reserved.
 
-                            <br>Design: <a href="https://templatemo.com" target="_parent"
-                                title="free css templates">TemplateMo</a>
+                            <br>Design: <a href="https://www.instagram.com/ihsanreihaa" target="_parent"
+                                title="free css templates">Ihsan Reihansyah</a>
                         </p>
                         <ul>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                            <li><a href="http://facebook.com"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="http://twitter.com"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="http://linkedin.com"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="http://behance.com"><i class="fa fa-behance"></i></a></li>
                         </ul>
                     </div>
                 </div>
