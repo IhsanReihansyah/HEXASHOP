@@ -124,7 +124,7 @@ https://templatemo.com/tm-571-hexashop
                         <h4>
                             <?php echo $nama_produk ?>
                         </h4>
-                        <span id="rupiah">
+                        <span>
                             <?php echo rupiah($harga); ?>
                         </span>
                         <ul class="stars">
@@ -156,7 +156,8 @@ https://templatemo.com/tm-571-hexashop
 
                         <div class="total">
                             <h4>Total:
-                                <?php echo rupiah($harga); ?>
+                                <input type="hidden" id="hargaSatuan" value="<?php echo $harga; ?>"> 
+                                <span id="rupiah"><?php echo rupiah($harga) ?> </span>
                             </h4>
                             <br><br>
                             <div class="main-border-button"><a href="#">Add To Cart</a></div>
@@ -255,11 +256,20 @@ https://templatemo.com/tm-571-hexashop
 
     <script>
 
-    // $(document).ready(function () { // ketika dokumen ready maka eksekusi kode dibawah
-    //     $("#quantity").change(function(){
-    //         document.write("The text has been changed.");
-    //     });
-    // });
+    $(document).ready(function () { // ketika dokumen ready maka eksekusi kode dibawah
+        $("#quantity").change(function(){   // Jika Ada Perubahan Value dr Id Quantity 
+            var qty = $( "#quantity" ).val();   // menampung variable yg berganti dr id quantity
+            var harga = $( "#hargaSatuan" ).val();  // menampung variable dr input element yg id nya hargaSatuan
+            document.getElementById('rupiah').innerHTML = rupiahJS(qty*harga);
+        });
+    });
+
+    const rupiahJS = (number)=>{
+        return new Intl.NumberFormat("id-ID", {
+        style: "currency",
+        currency: "IDR"
+        }).format(number);
+    }
 
         $(function () {
             var selectedClass = "";
