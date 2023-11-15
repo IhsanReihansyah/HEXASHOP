@@ -133,10 +133,10 @@
                         <li>
                                 <a href="#"><</a>
                             </li>
-                            <li>
+                            <li class="active">
                                 <a href="#">1</a>
                             </li>
-                            <li class="active">
+                            <li>
                                 <a href="#">2</a>
                             </li>
                             <li>

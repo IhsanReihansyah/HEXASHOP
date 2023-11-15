@@ -149,7 +149,7 @@
                                 <span id="rupiah"><?php echo rupiah($harga) ?> </span>
                             </h4>
                             <br><br>
-                            <div class="main-border-button"><a href="#">Add To Cart</a></div>
+                            <div class="main-border-button"><a href="index.php">Add To Cart</a></div>
                         </div>
                     </div>
                 </div>
