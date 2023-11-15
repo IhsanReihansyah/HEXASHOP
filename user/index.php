@@ -378,7 +378,7 @@
                         </div>
                         <ul>
                             <li><a href="http://googlemaps.com">Yogyakarta, FL 33160, Indonesia</a></li>
-                            <li><a href="index.php">hexashop@company.com</a></li>
+                            <li><a href="index.php">ihsanreihansyah24@gmail.com</a></li>
                         </ul>
                     </div>
                 </div>
