@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Hexashop - Contact Page</title>
+    <title>Contact Page</title>
 
 
     <!-- Additional CSS Files -->
@@ -54,9 +54,9 @@
                             <li class="submenu">
                                 <a href="javascript:;">Pages</a>
                                 <ul>
-                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="about.php">About Me</a></li>
                                     <li><a href="products.php">Products</a></li>
-                                    <li><a href="contact.php">Contact Us</a></li>
+                                    <li><a href="contact.php" class="active">Contact Me</a></li>
                                 </ul>
                             </li>
                         <!-- ***** Menu End ***** -->
@@ -186,11 +186,11 @@
                 <div class="col-lg-3">
                     <div class="first-item">
                         <div class="logo">
-                            <img src="../assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
+                            <img src="../assets/images/white-logo.png" alt="">
                         </div>
                         <ul>
                             <li><a href="#">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</a></li>
-                            <li><a href="#">hexashop@company.com</a></li>
+                            <li><a href="#">ihsanreihansyah24@gmail.com</a></li>
                             <li><a href="#">010-020-0340</a></li>
                         </ul>
                     </div>
@@ -223,9 +223,8 @@
                 </div>
                 <div class="col-lg-12">
                     <div class="under-footer">
-                        <p>Copyright © 2022 HexaShop Co., Ltd. All Rights Reserved. 
-                        
-                        <br>Design: <a href="https://templatemo.com" target="_parent" title="free css templates">TemplateMo</a></p>
+                        <p>Copyright © 2022 Ihsan Reihansyah Co., Ltd. All Rights Reserved.
+                            
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>

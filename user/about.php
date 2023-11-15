@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Hexashop - About Page</title>
+    <title>About Page</title>
 
 
     <!-- Additional CSS Files -->
@@ -54,9 +54,9 @@
                             <li class="submenu">
                                 <a href="javascript:;">Pages</a>
                                 <ul>
-                                    <li><a href="about.php" class="active">About Us</a></li>
+                                    <li><a href="about.php" class="active">About Me</a></li>
                                     <li><a href="products.php">Products</a></li>
-                                    <li><a href="contact.php">Contact Us</a></li>
+                                    <li><a href="contact.php">Contact Me</a></li>
                                 </ul>
                             </li>
                         <!-- ***** Menu End ***** -->
@@ -137,7 +137,7 @@
                 <div class="col-lg-4">
                     <div class="service-item">
                         <h4>Coding</h4>
-                        <p>Sebenrnya tidak terlalu, Biar keren aja.</p>
+                        <p>Sebenarnya tidak terlalu, Biar keren aja.</p>
                         <img src="../assets/images/coding.jpg" alt="">
                     </div>
                 </div>
@@ -146,61 +146,6 @@
     </section>
     <!-- ***** Services Area Ends ***** -->
 
-    <!-- ***** Subscribe Area Starts ***** -->
-    <div class="subscribe">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8">
-                    <div class="section-heading">
-                        <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
-                        <span>If you want to get a discount from us, you can enter your name and email below.</span>
-                    </div>
-                    <form id="subscribe" action="" method="get">
-                        <div class="row">
-                            <div class="col-lg-5">
-                                <fieldset>
-                                    <input name="name" type="text" id="name" placeholder="Your Name" required="">
-                                </fieldset>
-                            </div>
-                            <div class="col-lg-5">
-                                <fieldset>
-                                    <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*"
-                                        placeholder="Your Email Address" required="">
-                                </fieldset>
-                            </div>
-                            <div class="col-lg-2">
-                                <fieldset>
-                                    <button type="submit" id="form-submit" class="main-dark-button"><i
-                                            class="fa fa-paper-plane"></i></button>
-                                </fieldset>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <div class="col-lg-4">
-                    <div class="row">
-                        <div class="col-6">
-                            <ul>
-                                <li>Store Location:<br><span>Yogyakarta, FL 33160, Indonesia</span></li>
-                                <li>Phone:<br><span>0821-6555-4417</span></li>
-                                <li>Office Location:<br><span>Ihsan Reihansyah</span></li>
-                            </ul>
-                        </div>
-                        <div class="col-6">
-                            <ul>
-                                <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
-                                <li>Email:<br><span>ihsanreihansyah24@gmail.com</span></li>
-                                <li>Social Media:<br><span><a href="http://facebook.com">Facebook</a>, <a href="http://instagram.com">Instagram</a>, <a
-                                            href="http://behance.com">Behance</a>, <a href="http://linkedin.com">Linkedin</a></span></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ***** Subscribe Area Ends ***** -->
-
     <!-- ***** Footer Start ***** -->
     <footer>
         <div class="container">
@@ -208,11 +153,11 @@
                 <div class="col-lg-3">
                     <div class="first-item">
                         <div class="logo">
-                            <img src="../assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
+                            <img src="../assets/images/white-logo.png" alt="">
                         </div>
                         <ul>
                             <li><a href="http://googlemaps.com">Yogyakarta, FL 33160, Indonesia</a></li>
-                            <li><a href="index.php">hexashop@company.com</a></li>
+                            <li><a href="index.php">ihsanreihansyah24@gmail.com</a></li>
                         </ul>
                     </div>
                 </div>
@@ -243,10 +188,10 @@
                 </div>
                 <div class="col-lg-12">
                     <div class="under-footer">
-                        <p>Copyright © 2022 HexaShop Co., Ltd. All Rights Reserved.
+                        <p>Copyright © 2022 Rehan Co., Ltd. All Rights Reserved.
 
                             <br>Design: <a href="https://www.instagram.com/ihsanreihaa" target="_parent"
-                                title="free css templates">Ihsan Reihansyah</a>
+                                title="">Ihsan Reihansyah</a>
                         </p>
                         <ul>
                             <li><a href="http://facebook.com"><i class="fa fa-facebook"></i></a></li>

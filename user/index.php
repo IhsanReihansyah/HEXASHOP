@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
         rel="stylesheet">
 
-    <title>Hexashop Ecommerce Ihsan</title>
+    <title>Ecommerce Ihsan</title>
 
     <link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="../assets/css/font-awesome.css">
@@ -58,9 +58,9 @@
                             <li class="submenu">
                                 <a href="javascript:;">Pages</a>
                                 <ul>
-                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="about.php">About Me</a></li>
                                     <li><a href="products.php">Products</a></li>
-                                    <li><a href="contact.php">Contact Us</a></li>
+                                    <li><a href="contact.php">Contact Me</a></li>
                                 </ul>
                             </li>
                             <!-- ***** Menu End ***** -->
@@ -374,7 +374,7 @@
                 <div class="col-lg-3">
                     <div class="first-item">
                         <div class="logo">
-                            <img src="../assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
+                            <img src="../assets/images/white-logo.png" alt="">
                         </div>
                         <ul>
                             <li><a href="http://googlemaps.com">Yogyakarta, FL 33160, Indonesia</a></li>
@@ -409,10 +409,10 @@
                 </div>
                 <div class="col-lg-12">
                     <div class="under-footer">
-                        <p>Copyright © 2022 HexaShop Co., Ltd. All Rights Reserved.
+                        <p>Copyright © 2022 Rehan Co., Ltd. All Rights Reserved.
 
                             <br>Design: <a href="https://www.instagram.com/ihsanreihaa" target="_parent"
-                                title="free css templates">Ihsan Reihansyah</a>
+                                title="">Ihsan Reihansyah</a>
                         </p>
                         <ul>
                             <li><a href="http://facebook.com"><i class="fa fa-facebook"></i></a></li>
