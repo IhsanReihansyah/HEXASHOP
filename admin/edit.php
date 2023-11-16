@@ -73,7 +73,7 @@
                         <td>
                             <div class="col-md-12"> <input type="file" class="form-control"
                                     aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default"
-                                    id="fileToUpload" required name="fileToUpload"></div>
+                                    id="fileToUpload" required name="fileToUpload" value="<?php echo $image ?>"></div>
                         </td>
                     </div>
                 </tr>
@@ -93,7 +93,7 @@
                 <div class="input-group mb-3 col-md-4"><td>
                     <label class="input-group-text" for="inputGroupSelect01">Gender</label></td><td>
                     <div class="col-md-12">
-                        <select class="form-select" id="id_gender" required name="id_gender" required>
+                        <select class="form-select" id="id_gender" required name="id_gender" required value="<?php echo $id_gender ?>">
                             <option selected>
                                 <?php
                                 $query = mysqli_query($conn, "SELECT * FROM gender_produk");
@@ -109,7 +109,9 @@
                         </select>
                     </div></td>
                 </div>
-                            </tr>
+                <tr>
+                </tr>
+                </tr>
                 <tr>
                 <div class="input-group mb-3 col-md-4"><td>
                     <label class="input-group-text" for="inputGroupSelect01">Ukuran</label></td><td>

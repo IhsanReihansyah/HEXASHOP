@@ -38,12 +38,17 @@
 </head>
 
 <body>
+    <nav class="navbar bg-body-tertiary">
+    <div class="container-fluid">
+        <span class="p-3 mb-2 bg-light-subtle text-emphasis-light navbar-brand mb-1 h1 position-absolute top-0 start-50 translate-middle-x">Halaman Admin</span>
+    </div>
+    </nav>
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
                 <?php
                 include '../koneksi.php';
-                $query = mysqli_query($conn, "SELECT * from produk as p join ukuran_produk as up on p.id_ukuran = up.id_ukuran join status_produk as sp on p.id_status = sp.id_status join gender_produk as gp on p.id_gender = gp.id_gender ORDER BY p.id_gender ASC;");
+                $query = mysqli_query($conn, "SELECT * from produk as p join ukuran_produk as up on p.id_ukuran = up.id_ukuran join status_produk as sp on p.id_status = sp.id_status join gender_produk as gp on p.id_gender = gp.id_gender ORDER BY p.id ASC;");
                 ?>
                 <br>
                 <a class=" btn btn-info fs-6 enak" style="margin-bottom:15px"
